@@ -1,3 +1,5 @@
+![alt text](https://dribbble.com/shots/14734566-Calculator-App?utm_source=Clipboard_Shot&utm_campaign=mhdfadli&utm_content=Calculator%20App&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=mhdfadli&utm_content=Calculator%20App&utm_medium=Social_Share)
+
 # SIMPLE CALCULATOR APP USING FLUTTER
 
 In this project I built a simple calculator App that can perform basic Arithmetic operations like addition,
