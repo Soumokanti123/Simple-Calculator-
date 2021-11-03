@@ -3,8 +3,9 @@
 In this project I built a simple calculator App that can perform basic Arithmetic operations like addition,
 subtraction, multiplication or division depending upon the user Input.
 
-
-
+Concepts used **Showing Widgets on the screen**
+              **Gridview.builder**
+              **Function Writing**
 ## Getting Started
 
 This project is a starting point for a Flutter application.
