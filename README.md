@@ -1,4 +1,4 @@
-# anima
+# SIMPLE CALCULATOR
 
 A new Flutter project.
 
