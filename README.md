@@ -1,6 +1,9 @@
-# SIMPLE CALCULATOR
+# SIMPLE CALCULATOR APP USING FLUTTER
 
-A new Flutter project.
+In this project I built a simple calculator App that can perform basic Arithmetic operations like addition,
+subtraction, multiplication or division depending upon the user Input.
+
+
 
 ## Getting Started
 
