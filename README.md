@@ -1,4 +1,4 @@
-
+![alt text](giphy.gif)
 
 # SIMPLE CALCULATOR APP USING FLUTTER
 
