@@ -3,18 +3,10 @@
 In this project I built a simple calculator App that can perform basic Arithmetic operations like addition,
 subtraction, multiplication or division depending upon the user Input.
 
-Concepts used **Showing Widgets on the screen**
-              **Gridview.builder**
+Concepts used **Showing Widgets on the screen,**
+              **Gridview.builder,**
               **Function Writing**
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Coding Calculator App
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In the Lib folder, there is a **main.dart** file already present. And now in the same folder create a new file named **buttons.dart**. Starting with **main.dart** file. Create **MyApp** class and make it **StatelessWidget**. Add an array of buttons to be displayed. Set the background-color, text-color, text-color, functionality **onTapped** to the buttons.
