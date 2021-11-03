@@ -20,6 +20,8 @@ In **buttons.dart** which is already imported in **main.dart** file we are decla
 
 ## Adding dependencies in pubspec.yaml file
 
-To make the process easier we are using **math_expressions: ^2.0.0 ** package which is imported in **main.dart** file to handle all the calculations and run time error exceptions. 
+To make the process easier we are using **math_expressions: ^2.0.0 ** package which is imported in **main.dart** file to handle all the calculations and run time error exceptions.
 
-![alt text](mobile1.png)
+## Image
+
+![alt text](mobile1.png)  ![alt text](mobile2.png)  ![alt text](mobile3.png)
